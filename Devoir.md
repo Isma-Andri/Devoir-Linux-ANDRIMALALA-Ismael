@@ -84,7 +84,7 @@ echo ‘export PATH=$PATH:/usr/local/apache2/bin’  >> ~/.bashrc
 source ~/.bashrc
 ```
 Screenshot:
-<img src="https://github.com/Not-Kira/Intro-/blob/Not-Kira-screenshots/InstallationApache~2.png" alt="Installation de Apache terminé">  
+<img src="https://github.com/Not-Kira/screenshots/blob/main/ApacheFinal.png" alt="Installation de Apache terminé">  
 Pour afficher la version installée :
 ```bash
 httpd -v
