@@ -20,7 +20,8 @@ sudo make install
 echo 'export PATH=$PATH:/usr/local/mysql/bin' >> /home/mit/.bashrc
 source ~/.bashrc
 ```
-<img src="https://github.com/Not-Kira/Devoir-Linux-Andrimalala-Ismael/blob/main/InstallationMYSQL.png" alt="Installation de MySQL terminé">  
+<img src="https://github.com/Not-Kira/Intro-/blob/Not-Kira-screenshots/InstallationMYSQL.png" alt="Installation de MySQL terminé">
+
 
 ## Apache
 Télécharger l'archive httpd.tar.gz  
@@ -49,6 +50,9 @@ more README
 more INSTALL
 #Dépendance nécessaire: libxml2,pkg-config,sqlite3
 ```
+
+<img src="https://github.com/Not-Kira/Intro-/blob/Not-Kira-screenshots/InstallationApache~2.png" alt="Installation de Apache terminé">  
+
 ## PHP
 Télécharger l'archive httpd.tar.gz  
 ou copier la source depuis une clé usb  
@@ -66,4 +70,5 @@ sudo apt-get install libxml2-dev pkg-config sqlite3
 make
 sudo make install
 ```
+<img src="https://github.com/Not-Kira/Intro-/blob/Not-Kira-screenshots/InstallationPHP~2.png" alt="Installation de PHP terminé">  
 
